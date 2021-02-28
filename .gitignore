@@ -1,3 +1,9 @@
+# Credentials
+details.py
+
+# Audio Files
+*.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
